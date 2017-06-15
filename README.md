@@ -1,0 +1,1 @@
+![Abalone board with 4 players placed](abalone.png)
